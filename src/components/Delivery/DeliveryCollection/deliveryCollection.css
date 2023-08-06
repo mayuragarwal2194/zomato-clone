@@ -1,0 +1,16 @@
+.bg-gray{
+  background-color: #f8f8f8;
+}
+
+.inspiration-container .slick-next,
+.inspiration-container .slick-prev {
+  top:40%;
+}
+
+.inspiration-container .slick-prev{
+  left: -15px;
+}
+
+.inspiration-container .slick-next{
+  right: 15px;
+}

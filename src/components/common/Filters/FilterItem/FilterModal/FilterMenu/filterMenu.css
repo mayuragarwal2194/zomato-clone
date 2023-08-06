@@ -1,0 +1,9 @@
+.filter-menu {
+  border-left: 4px solid transparent;
+  background-color: #F8F8F8;
+}
+
+.active-menu {
+  border-left: 4px solid #FF7E8B;
+  background-color: transparent;
+}

@@ -1,0 +1,12 @@
+#root{
+  --primary-box-shadow: rgba(28, 28, 28, 0.08) 0px 2px 8px;
+  --zomato-gray:#828282;
+  --zomato-red:#EF4F5F;
+  --filter-text: #9C9C9C;
+  --heading-text: #1C1C1C;
+  --gray: #9C9C9C;
+  --proTag: #d92662;
+  --tagBlue: #256fef;
+  --goldOfferText: #ffd385;
+  --goldOfferBg: linear-gradient(90deg, rgb(12, 14, 17) 0%, rgb(12, 14, 17) 25%, rgb(12, 14, 17) 50%, rgba(12, 14, 17, 0.8) 80%, rgba(12, 14, 17, 0) 100%);
+}

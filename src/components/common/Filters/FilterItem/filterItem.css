@@ -1,0 +1,5 @@
+.filter-item{
+  font-size: 14px;
+  color: var(--filter-text);
+  border-radius: 8px;
+}

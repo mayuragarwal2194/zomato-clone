@@ -1,0 +1,12 @@
+.topBrands-container .slick-next,
+.topBrands-container .slick-prev {
+  top:35%;
+}
+
+.topBrands-container .slick-prev{
+  left: 0;
+}
+
+.topBrands-container .slick-next{
+  right: 0;
+}

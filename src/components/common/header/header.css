@@ -1,0 +1,52 @@
+.navbar-brand img {
+  max-width: 7rem;
+}
+
+.location-btn {
+  width: 240px;
+}
+
+.location-btn::after {
+  margin-left: auto;
+}
+
+.location-btn i {
+  color: var(--zomato-red);
+  font-size: 20px;
+}
+
+.location-btn span{
+  color: var(--zomato-gray);
+}
+
+.header-middleBox{
+  border: 1px solid rgb(232, 232, 232);
+  border-radius:8px;
+  box-shadow: var(--primary-box-shadow);
+  height: 50px;
+}
+
+.search-icon{
+  color: var(--zomato-gray);
+  border-left: 2px solid #cfcfcf;
+  height: 20px;
+}
+.search-box{
+  color: var(--zomato-gray);
+}
+
+.zomato-navbar-collapse .nav-item{
+  font-size: 18px;
+}
+
+@media (max-width:768px) {
+  .location-btn{
+    width: 200px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .search-box {
+    width: 450px;
+  }
+
+}
